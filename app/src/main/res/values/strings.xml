@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">1,2,Line!</string>
+    <string name="oneClick">Quickly transform drawing into line draft</string>
+    <string name="upload">upload a picture</string>
+    <string name="ask">Quit?</string>
+    <string name="exit">Exit</string>
+    <string name="cancel">Cancel</string>
+    <string name="makeLine">Line draft has been generated successfully!</string>
+    <string name="saveDraft">Line draft has been saved successfully, enjoy it!</string>
+    <string name="LineDraft">LineDraft</string>
+    <string name="OnClickError">Invalid image or empty image, please upload an image with \".jpg\" or \".png\"</string>
+    <string name="OnLongClickError">Line draft has been saved, please upload a new image</string>
+    <string name="Instructions">Instructions</string>
+    <string name="way">Upload an image ☛ Click the image to convert it ☛ Press the image to save it</string>
+</resources>

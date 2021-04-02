@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">1，2，线稿！</string>
+    <string name="oneClick">快速线稿转化</string>
+    <string name="upload">上传一张图片</string>
+    <string name="ask">是否退出？</string>
+    <string name="exit">退出</string>
+    <string name="cancel">取消</string>
+    <string name="makeLine">成功生成线稿</string>
+    <string name="saveDraft">线稿成功保存啦，快去"LineDraft"文件夹下看看吧</string>
+    <string name="LineDraft">线稿</string>
+    <string name="OnClickError">非静态图片或未上传图片，请上传一张静态图片</string>
+    <string name="OnLongClickError">线稿已经保存啦，上传一张新图片吧</string>
+    <string name="Instructions">食用方法</string>
+    <string name="way">上传一张图片☛单击图片进行转换☛长按图片进行保存</string>
+</resources>

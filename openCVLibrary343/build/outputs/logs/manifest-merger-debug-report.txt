@@ -1,0 +1,29 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\code\AndroidStudioProjects\OneTwoLineDraft\openCVLibrary343\src\main\AndroidManifest.xml:2:1-7:12
+INJECTED from D:\code\AndroidStudioProjects\OneTwoLineDraft\openCVLibrary343\src\main\AndroidManifest.xml:2:1-7:12
+INJECTED from D:\code\AndroidStudioProjects\OneTwoLineDraft\openCVLibrary343\src\main\AndroidManifest.xml:2:1-7:12
+	package
+		ADDED from D:\code\AndroidStudioProjects\OneTwoLineDraft\openCVLibrary343\src\main\AndroidManifest.xml:3:7-27
+		INJECTED from D:\code\AndroidStudioProjects\OneTwoLineDraft\openCVLibrary343\src\main\AndroidManifest.xml
+		INJECTED from D:\code\AndroidStudioProjects\OneTwoLineDraft\openCVLibrary343\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\code\AndroidStudioProjects\OneTwoLineDraft\openCVLibrary343\src\main\AndroidManifest.xml:5:7-34
+	xmlns:android
+		ADDED from D:\code\AndroidStudioProjects\OneTwoLineDraft\openCVLibrary343\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\code\AndroidStudioProjects\OneTwoLineDraft\openCVLibrary343\src\main\AndroidManifest.xml:4:7-33
+uses-sdk
+INJECTED from D:\code\AndroidStudioProjects\OneTwoLineDraft\openCVLibrary343\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\code\AndroidStudioProjects\OneTwoLineDraft\openCVLibrary343\src\main\AndroidManifest.xml
+INJECTED from D:\code\AndroidStudioProjects\OneTwoLineDraft\openCVLibrary343\src\main\AndroidManifest.xml
+INJECTED from D:\code\AndroidStudioProjects\OneTwoLineDraft\openCVLibrary343\src\main\AndroidManifest.xml
+INJECTED from D:\code\AndroidStudioProjects\OneTwoLineDraft\openCVLibrary343\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\code\AndroidStudioProjects\OneTwoLineDraft\openCVLibrary343\src\main\AndroidManifest.xml
+		ADDED from D:\code\AndroidStudioProjects\OneTwoLineDraft\openCVLibrary343\src\main\AndroidManifest.xml
+		INJECTED from D:\code\AndroidStudioProjects\OneTwoLineDraft\openCVLibrary343\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\code\AndroidStudioProjects\OneTwoLineDraft\openCVLibrary343\src\main\AndroidManifest.xml
+		ADDED from D:\code\AndroidStudioProjects\OneTwoLineDraft\openCVLibrary343\src\main\AndroidManifest.xml
+		INJECTED from D:\code\AndroidStudioProjects\OneTwoLineDraft\openCVLibrary343\src\main\AndroidManifest.xml

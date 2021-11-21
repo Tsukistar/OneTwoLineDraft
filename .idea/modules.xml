@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OneTwoLineDraft.iml" filepath="$PROJECT_DIR$/.idea/modules/OneTwoLineDraft.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/OneTwoLineDraft.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/OneTwoLineDraft.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/openCVLibrary343/OneTwoLineDraft.openCVLibrary343.iml" filepath="$PROJECT_DIR$/.idea/modules/openCVLibrary343/OneTwoLineDraft.openCVLibrary343.iml" />
+    </modules>
+  </component>
+</project>
